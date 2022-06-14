@@ -1,0 +1,4 @@
+
+def createSparseMatrix(uniqueList,kmers):
+    for values in matrix:
+        for residues in 
