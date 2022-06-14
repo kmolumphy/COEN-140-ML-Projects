@@ -1,0 +1,60 @@
+MinPts:  3  EPS:  0.4
+Total Labels:  1000  Core:  644  Border:  4  Noise:  352
+MinPts:  3  EPS:  0.6
+Total Labels:  1000  Core:  601  Border:  21  Noise:  378
+MinPts:  3  EPS:  0.8
+Total Labels:  1000  Core:  534  Border:  42  Noise:  424
+MinPts:  5  EPS:  0.4
+Total Labels:  1000  Core:  619  Border:  14  Noise:  367
+MinPts:  5  EPS:  0.6
+Total Labels:  1000  Core:  556  Border:  44  Noise:  400
+MinPts:  5  EPS:  0.8
+Total Labels:  1000  Core:  459  Border:  61  Noise:  480
+MinPts:  7  EPS:  0.4
+Total Labels:  1000  Core:  598  Border:  26  Noise:  376
+MinPts:  7  EPS:  0.6
+Total Labels:  1000  Core:  522  Border:  66  Noise:  412
+MinPts:  7  EPS:  0.8
+Total Labels:  1000  Core:  426  Border:  80  Noise:  494
+MinPts:  9  EPS:  0.4
+Total Labels:  1000  Core:  588  Border:  32  Noise:  380
+MinPts:  9  EPS:  0.6
+Total Labels:  1000  Core:  506  Border:  74  Noise:  420
+MinPts:  9  EPS:  0.8
+Total Labels:  1000  Core:  383  Border:  110  Noise:  507
+MinPts:  11  EPS:  0.4
+Total Labels:  1000  Core:  567  Border:  45  Noise:  388
+MinPts:  11  EPS:  0.6
+Total Labels:  1000  Core:  481  Border:  93  Noise:  426
+MinPts:  11  EPS:  0.8
+Total Labels:  1000  Core:  342  Border:  146  Noise:  512
+MinPts:  13  EPS:  0.4
+Total Labels:  1000  Core:  553  Border:  49  Noise:  398
+MinPts:  13  EPS:  0.6
+Total Labels:  1000  Core:  455  Border:  101  Noise:  444
+MinPts:  13  EPS:  0.8
+Total Labels:  1000  Core:  317  Border:  162  Noise:  521
+MinPts:  15  EPS:  0.4
+Total Labels:  1000  Core:  537  Border:  61  Noise:  402
+MinPts:  15  EPS:  0.6
+Total Labels:  1000  Core:  431  Border:  117  Noise:  452
+MinPts:  15  EPS:  0.8
+Total Labels:  1000  Core:  283  Border:  182  Noise:  535
+MinPts:  17  EPS:  0.4
+Total Labels:  1000  Core:  529  Border:  68  Noise:  403
+MinPts:  17  EPS:  0.6
+Total Labels:  1000  Core:  406  Border:  120  Noise:  474
+MinPts:  17  EPS:  0.8
+Total Labels:  1000  Core:  255  Border:  174  Noise:  571
+MinPts:  19  EPS:  0.4
+Total Labels:  1000  Core:  516  Border:  78  Noise:  406
+MinPts:  19  EPS:  0.6
+Total Labels:  1000  Core:  384  Border:  129  Noise:  487
+MinPts:  19  EPS:  0.8
+Total Labels:  1000  Core:  236  Border:  189  Noise:  575
+MinPts:  21  EPS:  0.4
+Total Labels:  1000  Core:  507  Border:  80  Noise:  413
+MinPts:  21  EPS:  0.6
+Total Labels:  1000  Core:  360  Border:  126  Noise:  514
+MinPts:  21  EPS:  0.8
+Total Labels:  1000  Core:  222  Border:  193  Noise:  585
